@@ -21,7 +21,7 @@ function add(){
 
 	greencar_imgTag = new Image();
 	greencar_imgTag.onload = uploadgreencar;
-	greencar_imgTag.src =background_image;
+	greencar_imgTag.src =greencar_image;
 
 }
 // 6.Defina as funções 'uploadBackground' e 'uploadgreencar'.
